@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+.logo{
+    font-family: "Flow Rounded", system-ui;
+  font-weight: 300;
+  font-style: normal;
+}.logo-holder{
+    background-color: rgb(123, 125, 125);
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.home{
+  background: #282c34;
+  color: white;
+  min-height: 100vh;
+}

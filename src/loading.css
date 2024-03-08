@@ -1,0 +1,9 @@
+.loading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.loading>img{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
